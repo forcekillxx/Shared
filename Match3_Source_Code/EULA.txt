@@ -1,0 +1,62 @@
+READ THIS AGREEMENT BEFORE DOWNLOAD
+ 
+THIS IS THE END-USER LICENSE AGREEMENT FOR THE GAMEACADEMY.COM Game Insider Monthly Game Source Code. IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE DOWNLOADING, USING OR INSTALLING THE SOURCE CODE. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS LICENSE AGREEMENT, DO NOT PROCEED WITH THE DOWNLOAD AND DO NOT COMPLETE INSTALLATION OF THE SOURCE CODE. BY ENTERING INTO THIS LICENSE AGREEMENT, YOU REPRESENT THAT YOU ARE AN ADULT AND HAVE THE LEGAL CAPACITY TO ENTER INTO A CONTRACT.  The GameAcademy.com End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Secret Headquarters, INC (DBA GameAcademy.com). By installing, copying or otherwise using the SOURCE CODE you agree to be bound by the terms of this EULA as well as the Terms and Conditions Agreement of Secret Headquarters Inc.. This license agreement which incorporates the Terms and Conditions Agreement of Secret Headquarters Inc. represents the entire agreement concerning the program between you and GameAcademy.com, (referred to as "licensor"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not download, install or use THE SOURCE CODE.
+
+
+THE SOURCE CODE is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. THE SOURCE CODE is licensed, not sold.
+
+
+1. GRANT OF LICENSE.
+
+ THE SOURCE CODE is licensed as follows:
+
+
+(a) Installation and Use.
+
+GameAcademy.com grants you the right to install and use copies of THE SOURCE CODE on your computer running a validly licensed copy of the operating system for which THE SOURCE CODE was designed. The Source code is provided for your entertainment purposes only. Except as may be expressly permitted by GameAcademy.com, you may not sell, copy, exchange, transfer, assign or otherwise distribute anything you copy or derive from the Source code.  
+
+
+(b) Backup Copies.
+
+ You may also make copies of THE SOURCE CODE as may be necessary for backup and archival purposes.
+
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+
+(a) Maintenance of Copyright Notices.
+
+You must not remove or alter any copyright notices on any and all copies of THE SOURCE CODE. You may add your own copyright notice on alterations you make on THE SOURCE CODE.
+
+
+ (b) Support Services.
+
+ GameAcademy.com may provide you with support services related to THE SOURCE CODE ("Support Services"). Any supplemental software code provided to you as part of the Support Services shall be considered part of THE SOURCE CODE and subject to the terms and conditions of this EULA.
+
+
+(c) Compliance with Applicable Laws.
+
+ You must comply with all applicable laws regarding use of THE SOURCE CODE. This EULA shall be interpreted and controlled by the laws of the State of California. Any action arising from this EULA shall be in a court of competent jurisdiction located in the State of California, County of Los Angeles.  You agree to the personal jurisdiction of the appropriate court.
+
+3. TERMINATION
+
+ Without prejudice to any other rights, GameAcademy.com may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of THE SOURCE CODE in your possession.
+
+
+4. COPYRIGHT
+
+ All title, including but not limited to copyrights, in and to THE SOURCE CODE and any copies thereof are owned by GameAcademy.com. All title and intellectual property rights in and to the content which may be accessed through use of THE SOURCE CODE is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content except as set forth in this EULA. All rights not expressly granted are reserved by GameAcademy.com. 
+
+
+5. LIMITATION OF LIABILITY
+
+ In no event shall GameAcademy.com be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use THE SOURCE CODE, even if GameAcademy.com has been advised of the possibility of such damages. In no event will GameAcademy.com be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. GameAcademy.com shall have no liability with respect to the content of THE SOURCE CODE or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.
+
+
+6. INDEMNIFICATION
+
+YOU HEREBY AGREE TO INDEMNIFY, DEFEND AND HOLD HARMLESS GameAcademy.com FROM AND AGAINST ANY AND ALL CLAIMS, LAWSUITS, DAMAGES, LOSSES, LIABILITIES AND COSTS (INCLUDING ATTORNEYS’ FEES) THAT DIRECTLY OR INDIRECTLY ARISE OR RESULT FROM YOUR USE OR MISUSE OF THE SOFTWARE, OR ANY VIOLATION BY YOU OF ANY OF THE PROVISIONS OF THIS LICENSE AGREEMENT. GameAcademy.com reserves the right, at its own expense and in its sole and absolute discretion, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with GameAcademy.com in asserting any available defenses.
+
+
+7. MISCELLANEOUS
+
+This License Agreement represents the complete agreement between you and GameAcademy.com with respect to the subject matter hereof, and supersedes any prior or contemporaneous agreements between you and GameAcademy.com; provided however that this License Agreement shall coexist with, and shall not supersede, the Terms and Conditions of the website for Secret Headquarters, Inc. To the extent that the provisions of this License Agreement conflict with the Terms and Conditions of the website for Secret Headquarters, Inc. the conflicting provisions in the Terms and Conditions of the website for Secret Headquarters, Inc. shall govern.  Those who choose to access or download the software from locations outside the United States do so on their own initiative and are responsible for compliance with applicable local laws. GameAcademy.coms’ failure to enforce any provision of this License Agreement shall in no way be construed to be a present or future waiver of such provision, nor in any way affect the right of any party to enforce each and every such provision thereafter. The express waiver by GameAcademy.com of any provision, condition or requirement of this License Agreement shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement. If any provision of this License Agreement is held to be invalid or unenforceable for any reason, such provision shall be reformed to the extent necessary to make it enforceable to the maximum extent permissible so as to affect the intent of the parties, and the remainder of this License Agreement shall continue in full force and effect. If, however, it is determined that such provision cannot be reformed, then that provision shall be deemed severable from these terms and shall not affect the validity and enforceability of any remaining provisions.
